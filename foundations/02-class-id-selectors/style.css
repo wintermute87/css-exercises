@@ -1,0 +1,19 @@
+.number-class {
+    background-color: rgb(240, 190, 217);
+    font-family: Verdana, DejaVu Sans, sans-serif; 
+}
+
+#number-id {
+    color: rgb(15, 36, 221);
+    font-size: 36px;
+}
+
+.class-special {
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: rgb(72, 184, 62);
+    font-weight: bold;
+    font-size: 24px;
+}
